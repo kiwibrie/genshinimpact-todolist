@@ -2,7 +2,7 @@ package todolist;
 
 public class Item {
     String name;
-    String desc;
+    String notes;
 
     String image_path; //todo void image
     int stars = 3;
@@ -16,15 +16,15 @@ public class Item {
         return name;
     }
 
-    public void setDesc(String desc) {
-        this.desc = desc;
+    public void setNotes(String notes) {
+        this.notes = notes;
     }
 
-    public String getDesc() {
-        return desc;
+    public String getNotes() {
+        return notes;
     }
 
-    public void setImagePath(String image_path) {
+    public void setImage(String image_path) {
         if(!image_path.equals("")){
             this.image_path = image_path;
         }

@@ -10,12 +10,12 @@ public class Artifact extends Item {
     String two_piece_desc;
     String four_piece_desc;
 
-    public Artifact(String name, String desc, String img, String stars, String piece,
+    public Artifact(String name, String notes, String img, String stars, String piece,
                     List<String> mainstats, String twodesc, String fourdesc){
         setType("Artifact");
         setName(name);
-        setDesc(desc);
-        setImagePath(img);
+        setNotes(notes);
+        setImage(img);
         setStars(stars);
         setArtifactPiece(piece);
         setMainStat(mainstats);

@@ -13,14 +13,15 @@ public class ToDoList {
         this.todolist = new ArrayList<>();
     }
 
-    public void addArtifact(String name, String desc, String img, String stars, String piece, List<String> mainstats, String twodesc, String fourdesc){
+    public void addArtifact(String name, String desc, String img, String stars,
+                            String piece, List<String> mainstats, String twodesc, String fourdesc){
         Artifact artifact = new Artifact(name, desc, img, stars, piece, mainstats, twodesc, fourdesc);
         todolist.add(artifact);
     }
 
-    public void addWeapon(String name, String desc, String stars, String mstat, String sstat, String pname, String pdesc, String img){
-        Weapon weapon = new Weapon(name, desc, stars, mstat, sstat, pname, pdesc);
-        weapon.setImagePath(img);
+    public void addWeapon(String name, String desc, String img, String stars,
+                          String mstat, String sstat, String pname, String pdesc){
+        Weapon weapon = new Weapon(name, desc, img, stars, mstat, sstat, pname, pdesc);
         todolist.add(weapon);
     }
 

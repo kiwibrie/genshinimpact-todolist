@@ -9,10 +9,12 @@ public class Weapon extends Item {
     String passive_name;
     String passive_desc;
 
-    public Weapon(String name, String desc, String stars, String mstat, String sstat, String pname, String pdesc){
+    public Weapon(String name, String notes, String img, String stars,
+                  String mstat, String sstat, String pname, String pdesc){
         setType("Weapon");
         setName(name);
-        setDesc(desc);
+        setNotes(notes);
+        setImage(img);
         setStars(stars);
         setMainStat(mstat);
         setSubStat(sstat);
