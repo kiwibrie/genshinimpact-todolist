@@ -1,0 +1,156 @@
+NAME/STARS/AMAT1/AMAT2/AMAT3/AMAT4/TMAT1/TMAT2/TMAT3
+Albedo
+5 geo sword
+Prithiva Topaz  Basalt Pillar   Cecilia Scroll
+Ballad  Scroll    Tusk of Monoceros Caeli
+Amber
+4 pyro bow
+Agnidus Agate   Everflame Seed  Small Lamp Grass    Arrowhead
+Freedom Arrowhead   Dvalin's Sigh
+Baal
+5 electro sword
+
+
+Barbara
+4 hydro catalyst
+Varunada Lazurite   Cleansing Heart Philanemo Mushroom  Scroll
+Freedom Scroll    Ring of Boreas
+Beidou
+4 electro claymore
+Vajrada Amethyst    Lightning Prism Noctilucous Jade    Insignia
+Gold    Insignia    Dvalin's Sigh
+Bennett
+4 pyro sword
+Agnidus Agate   Everflame Seed  Windwheel Aster Insignia
+Resistance  Insignia    Dvalin's Plume
+Chongyun
+4 cryo claymore
+
+
+Diluc
+5 pyro claymore
+
+
+Diona
+4 cryo bow
+
+
+Eula
+5 cryo claymore
+
+
+Fischl
+4 electro bow
+
+
+Ganyu
+5 cryo bow
+
+
+Hu Tao
+5 pyro polearm
+
+
+Jean
+5 anemo sword
+
+
+Kaedehara Kazuha
+5 anemo sword
+
+
+Kaeya
+4 cryo sword
+
+
+Kamisato Ayaka
+5 cryo sword
+
+
+Keqing
+5 electro sword
+
+
+Klee
+5 pyro catalyst
+
+
+Lisa
+4 electro catalyst
+
+
+Mona
+5 hydro catalyst
+
+
+Ningguang
+4 geo catalyst
+
+
+Noelle
+4 geo claymore
+
+
+Qiqi
+5 cryo sword
+
+
+Razor
+4 electro claymore
+
+
+Rosaria
+4 cryo polearm
+
+
+Sara
+4 electro bow
+
+
+Sangonomiya Kokomi
+5 hydro catalyst
+
+
+Sucrose
+4 anemo catalyst
+
+
+Tartaglia
+5 hydro bow
+
+
+Traveler
+5 null sword
+
+
+Venti
+5 anemo bow
+
+
+Xiangling
+4 pyro polearm
+
+
+Xiao
+5 anemo polearm
+
+
+Xingqiu
+4 hydro sword
+
+
+Xinyan
+4 pyro claymore
+
+
+Yanfei
+4 pyro catalyst
+
+
+Yoimiya
+5 pyro bow
+
+
+Zhongli
+5 geo polearm
+
