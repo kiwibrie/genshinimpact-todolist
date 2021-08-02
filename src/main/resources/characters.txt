@@ -1,8 +1,9 @@
 NAME/STARS/AMAT1/AMAT2/AMAT3/AMAT4/TMAT1/TMAT2/TMAT3
 Albedo
 5 geo sword
-Prithiva Topaz  Basalt Pillar   Cecilia Scroll
-Ballad  Scroll    Tusk of Monoceros Caeli
+Prithiva Topaz  Basalt Pillar   Cecilia Scroll  Ballad  Tusk of Monoceros Caeli
+0hp 0atk 0def 0em 0cr 0cd
+...
 Amber
 4 pyro bow
 Agnidus Agate   Everflame Seed  Small Lamp Grass    Arrowhead
